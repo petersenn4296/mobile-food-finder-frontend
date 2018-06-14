@@ -1,0 +1,20 @@
+{
+  "name": "mobile-food-finder-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petersenn4296/mobile-food-finder-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petersenn4296/mobile-food-finder-frontend/issues"
+  },
+  "homepage": "https://github.com/petersenn4296/mobile-food-finder-frontend#readme"
+}
